@@ -1,5 +1,5 @@
 # https_server
-## 使用方法
+## How-to
 ```
 ./init_cert.sh
 docker compose up
