@@ -1,4 +1,4 @@
-# https_server
+# Nginx-with-Certbot
 ## How-to
 ```
 ./init_cert.sh
